@@ -8,7 +8,7 @@
   "author": "Aleksandr Nedorezov",
   "license": "ISC",
   "description": "README.md",
-  "repository": "",
+  "repository": "https://github.com/AlNedorezov/npm-tutorial-1.git",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
   }
