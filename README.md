@@ -1,0 +1,1 @@
+Learning package for "Manage Packages with npm" course on freeCodeCamp
